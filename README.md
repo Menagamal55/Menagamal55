@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menna Gamal  
-**Mobile App Developer "flutter" **
+Mobile App Developer 
 
 ---
 
