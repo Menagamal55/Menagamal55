@@ -31,25 +31,17 @@
 
 ---
 
-## 📊 GitHub Stats (Static Images)
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menagamal55&show_icons=true&theme=tokyonight&hide_border=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Menagamal55&layout=compact&theme=tokyonight&hide_border=true)
-</p>
+## 🏅 Achievements
+- 💻 Building Flutter apps with **clean architecture & BLoC**  
+- 🚀 Hands-on experience with **APIs, Firebase, and responsive UI**  
+- 🌟 Always improving coding & UI/UX skills  
 
 ---
 
-## 🏆 GitHub Trophies (Static)
-<p align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Menagamal55&theme=darkhub&no-frame=true&margin-w=15)
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Menagamal55&color=blue&style=flat)
-</p>
+## 👀 Profile Highlights
+- 🌐 Public GitHub profile ready for recruiters  
+- 🏆 Focused on Flutter mobile development projects  
+- ✨ Enthusiastic about learning and building real-world apps  
 
 ---
 
