@@ -1,16 +1,13 @@
-# Hi 👋, I'm Menna Gamal
-
-### Flutter Developer | Crafting smooth, scalable, and user-friendly mobile apps with Dart
+# 👋 Hi, I'm Menna Gamal
+**Mobile App Developer | Flutter Enthusiast**
 
 ---
 
-### 📌 About Me
-
-- 🏫 I am a `Computer Science student` at Mansoura University.
-- 🚀 Exploring `Flutter`.
-- 💻 Working on small projects to improve my `Flutter` skills.
-- 📫 Contact me at: [mnhj8364@gmail.com](mailto:mnhj8364@gmail.com)
-- ✨ Fun fact: `I enjoy building interactive UIs and animations in Flutter!`
+## 📌 About Me
+🎓 Computer Science student at **Mansoura University**  
+📱 Passionate about **Flutter Mobile Development** and creating **interactive user experiences**  
+🚀 Currently exploring Flutter's full capabilities, focusing on **BLoC**, **API integration**, and **clean architecture**  
+💡 I love **clean code**, **smooth animations**, and **elegant UI/UX**  
 
 ---
 
