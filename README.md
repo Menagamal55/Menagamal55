@@ -1,72 +1,116 @@
-<h1 align="center">I'm Menna Gamal</h1>
+<h1 align="center">Hi, I'm Menna Gamal</h1>
 
 <h3 align="center">
-Flutter Developer • Mobile App Engineer
+Flutter Developer • Junior Software Engineer • Final-Year CS Student
 </h3>
 
+<p align="center">
+  <a href="https://github.com/Menagamal55">
+    <img src="https://komarev.com/ghpvc/?username=Menagamal55&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views"/>
+  </a>
+</p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=60&lines=Building+Modern+Flutter+Applications;Clean+Architecture+Enthusiast;BLoC+State+Management;REST+API+Integration;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=60&lines=Building+Modern+Flutter+Applications;Creating+Clean+%26+Responsive+UIs;Exploring+Advanced+Flutter;Learning+UI%2FUX+Design;Turning+Ideas+Into+Mobile+Experiences"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-🎓 3rd-year Computer Science student at Mansoura University  
+**Final-year Computer Science Student at Mansoura University**
 
-💡 Passionate about Mobile Application Development, Flutter, Clean Architecture, APIs, and Open Source collaboration.  
+Flutter Developer interested in building modern, responsive, and user-friendly mobile applications.
 
-⚡ Currently focusing on:  
-- Flutter & Dart  
-- BLoC State Management  
-- REST API Integration  
-- Firebase  
-- Clean Architecture  
-- Responsive UI Development  
+I enjoy turning ideas into practical digital experiences while continuously improving my development and design skills.
 
-🚀 Always learning, building projects, and improving my development skills  
+### Currently Focusing On
 
-☕ Turning ideas into mobile experiences, one Flutter widget at a time  
+- Advanced Flutter & Dart
+- BLoC State Management
+- Clean Architecture
+- REST API Integration
+- Firebase
+- Responsive UI Development
+- UI/UX Design
 
----
-
-# 🚀 Featured Projects
-
-📱 **Hungry App**  
-Food ordering mobile application built with Flutter, focused on responsive UI and smooth user experience.  
-🔗 [Repository](https://github.com/Menagamal55/Hungry_App)  
-🛠 Flutter • Firebase • BLoC • Responsive UI  
-
-<br>
-
-🍽️ **Meal App**  
-Modern Flutter application for exploring meals with a clean UI and interactive experience.  
-🔗 [Repository](https://github.com/Menagamal55/Meal_APP)  
-🛠 Flutter • Dart • Clean UI  
-
-<br>
-
-🚀 More projects coming soon...
+I also enjoy **Technical Writing**, Reading, and exploring UI Design.
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,postman" />
+</p>
+
+### Programming & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,androidstudio,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Hungry App
+
+A food ordering mobile application built with Flutter, focused on responsive UI and a smooth user experience.
+
+**Tech:** `Flutter` `Dart` `Firebase` `BLoC` `Responsive UI`
+
+[View Repository](https://github.com/Menagamal55/Hungry_App)
+
+---
+
+### Meal App
+
+A modern Flutter application for exploring meals with a clean interface and interactive user experience.
+
+**Tech:** `Flutter` `Dart` `UI Design`
+
+[View Repository](https://github.com/Menagamal55/Meal_APP)
+
+---
+
+## Currently Learning
+
+| Area | Focus |
+| :--- | :--- |
+| Flutter | Advanced Flutter Development |
+| UI/UX | User Interface & User Experience |
+| Architecture | Clean Architecture |
+| State Management | BLoC |
+| APIs | REST API Integration |
+
+---
+
+## Interests
+
+- Mobile Development
+- UI/UX Design
+- Technical Writing
+- Reading
+- Learning New Technologies
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,git,github,vscode,androidstudio" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/menna-gamal-9856bb293" target="_blank">
+<a href="https://www.linkedin.com/in/menna-gamal-9856bb293">
 <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -74,11 +118,11 @@ Modern Flutter application for exploring meals with a clean UI and interactive e
 <img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/MennaGamal2006" target="_blank">
+<a href="https://t.me/MennaGamal2006">
 <img src="https://img.shields.io/badge/Telegram-A855F7?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/mennagamal2006" target="_blank">
+<a href="https://discord.com/users/mennagamal2006">
 <img src="https://img.shields.io/badge/Discord-7E22CE?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -86,7 +130,7 @@ Modern Flutter application for exploring meals with a clean UI and interactive e
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -98,11 +142,9 @@ Modern Flutter application for exploring meals with a clean UI and interactive e
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Menagamal55&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Menagamal55&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Menagamal55&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Menagamal55&theme=tokyonight&utcOffset=2"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Menagamal55&theme=tokyonight"/>
 
 </div>
 
@@ -114,21 +156,15 @@ Modern Flutter application for exploring meals with a clean UI and interactive e
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Menagamal55&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
 ---
 
-# 💬 Quote
+## Developer Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=70&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code.+Create.+Innovate.+Repeat.%22;%22Great+apps+are+built+with+passion+and+clean+code.%22;%22Turning+ideas+into+beautiful+mobile+experiences.%22"/>
+### Build with purpose. Design with empathy. Learn continuously.
+
+**Code • Design • Learn • Create**
 
 </div>
 
@@ -136,5 +172,6 @@ Modern Flutter application for exploring meals with a clean UI and interactive e
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Menagamal55&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+Thanks for visiting my profile.
+
 </div>
