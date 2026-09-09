@@ -1,199 +1,147 @@
-<h1 align="center">Menna Gamal</h1>
+<h1 align="center">I'm Menna Gamal</h1>
 
-<p align="center">
-  <strong>Flutter Developer · Junior Software Engineer · UI/UX Enthusiast</strong>
-</p>
-
-<p align="center">
-  Final-Year Computer Science Student at Mansoura University
-</p>
-
-<p align="center">
-  <a href="https://github.com/Menagamal55">
-    <img src="https://img.shields.io/github/followers/Menagamal55?label=Followers&style=flat&color=8B5CF6" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Menagamal55&label=Profile%20Views&style=flat&color=8B5CF6" />
-</p>
-
-<br>
+<h3 align="center">
+Flutter Developer • Junior Software Engineer • CS Student
+</h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&height=55&lines=Flutter+Developer;Mobile+App+Builder;UI%2FUX+Enthusiast;Clean+Architecture+Learner;Always+Building%2C+Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=60&lines=Building+Modern+Flutter+Applications;Clean+Architecture+Enthusiast;BLoC+State+Management;REST+API+Integration;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-## About
+# About Me
 
-I'm a **Flutter Developer** and **Final-Year Computer Science student** interested in building mobile applications that are both technically solid and enjoyable to use.
+🎓 Final-year Computer Science student at Mansoura University
 
-My main focus is Flutter development, clean and responsive interfaces, API integration, and improving the overall user experience.
+Passionate about Mobile Application Development, Flutter, Clean Architecture, APIs, and Open Source collaboration.
 
-I enjoy working at the intersection of **development and design** — turning an idea into an interface, then turning that interface into a real application.
-
-### What I'm working with
+Currently focusing on:
 
 - Flutter & Dart
 - BLoC State Management
+- REST API Integration
 - Firebase
-- REST APIs
 - Clean Architecture
-- Responsive UI
+- Responsive UI Development
 - UI/UX Design
 
----
-
-## Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,postman,git,github,androidstudio,vscode" />
-
-</p>
+Always learning, building projects, and improving my development skills.
 
 ---
 
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%">
+# Featured Projects
 
 ### Hungry App
 
-Food ordering mobile application built with Flutter, with a focus on responsive interfaces and a smooth user experience.
+Food ordering mobile application built with Flutter, focused on responsive UI and smooth user experience.
 
-**Flutter · Firebase · BLoC**
+**Tech:** Flutter • Firebase • BLoC • Responsive UI
 
-<a href="https://github.com/Menagamal55/Hungry_App">
-View Project →
-</a>
+[Repository](https://github.com/Menagamal55/Hungry_App)
 
-</td>
-
-<td width="50%">
+<br>
 
 ### Meal App
 
-A modern Flutter application for exploring meals through a clean and interactive interface.
+Modern Flutter application for exploring meals with a clean UI and interactive experience.
 
-**Flutter · Dart · UI Design**
+**Tech:** Flutter • Dart • Clean UI
 
-<a href="https://github.com/Menagamal55/Meal_APP">
-View Project →
+[Repository](https://github.com/Menagamal55/Meal_APP)
+
+<br>
+
+More projects coming soon...
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,git,github,python,androidstudio,vscode" />
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/menna-gamal-9856bb293" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+<a href="mailto:mnhj8364@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/MennaGamal2006" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-A855F7?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/mennagamal2006" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7E22CE?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Currently Learning
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Flutter**
-
-<br>
-
-Advanced Development
-
-</td>
-
-<td align="center" width="25%">
-
-**UI/UX**
-
-<br>
-
-User Experience & Design
-
-</td>
-
-<td align="center" width="25%">
-
-**Architecture**
-
-<br>
-
-Clean Architecture
-
-</td>
-
-<td align="center" width="25%">
-
-**State Management**
-
-<br>
-
-BLoC
-
-</td>
-</tr>
-</table>
-
----
-
-## Beyond Code
-
-**Technical Writing**  
-I enjoy breaking down technical concepts and documenting what I learn.
-
-**UI/UX Design**  
-I like exploring interfaces, visual hierarchy, and the small details that make an application easier to use.
-
-**Reading**  
-Always looking for something new to learn from.
-
----
-
-## GitHub
+# GitHub Analytics
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Menagamal55&theme=tokyonight"/>
 
-<br><br>
+</div>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Menagamal55&theme=tokyonight"/>
+<br>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Menagamal55&theme=tokyonight"/>
+<div align="center">
 
-<br><br>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Menagamal55&theme=tokyonight"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Menagamal55&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Menagamal55&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Menagamal55&theme=tokyonight&utcOffset=2"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Menagamal55&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Menagamal55&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## Let's Connect
+# Quote
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/menna-gamal-9856bb293">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=70&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code.+Create.+Innovate.+Repeat.%22;%22Great+apps+are+built+with+passion+and+clean+code.%22;%22Turning+ideas+into+beautiful+mobile+experiences.%22"/>
 
-<a href="mailto:mnhj8364@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/MennaGamal2006">
-<img src="https://img.shields.io/badge/Telegram-6D28D9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Build with purpose. Design with intention.
+<img src="https://komarev.com/ghpvc/?username=Menagamal55&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 
 </div>
